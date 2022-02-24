@@ -49,3 +49,6 @@ First, data is divided into two parts using component splitting. Here,the data i
 
 2.Prediction:
 The model now predicts whether a person has a heart disease or not based on the input values provided.If the  predicted value is 0 then it  prints a message saying 'This person does not have a heart disease' else it prints 'The person has heart disease'.
+
+Dataset:https://www.kaggle.com/ronitf/heart-disease-uci
+
